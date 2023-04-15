@@ -90,3 +90,4 @@ We have summarized the existing papers, codes, and datasets on visible watermark
 
 [4] Xiaodong Cun and Chi-Man Pun. 2020. Split then Refine: Stacked Attentionguided ResUNets for Blind Single Image Visible Watermark Removal. arXiv preprint arXiv:2012.07007 (2020).
 # wm_net
+# wm_net
